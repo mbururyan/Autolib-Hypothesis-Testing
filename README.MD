@@ -11,10 +11,10 @@ Other claims will be added on the notebook for practice.
 - Ryan Mburu
 
 # Date of completion
-17/09/2021
+24/09/2021
 
 # Motivation
-The project was a requirement by Moringa School, as a weekly Independent Project in the third week of Module 1 of core.
+The project was a requirement by Moringa School, as a weekly Independent Project in the fourth week of Module 1 of core.
 
 Another motivation is to get a good grasp on hypothesis testing.
 
