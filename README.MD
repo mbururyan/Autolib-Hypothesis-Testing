@@ -3,6 +3,10 @@
 # Introduction
 This is a project that uses hypothesis testing to investigate on a claim about bluecars being provided by the company Autolib.
 
+The claim in question is whether blue cars are picked more in area X over area Y, and necessary procedures to be followed to try to reject the hypothesis.
+
+Other claims will be added on the notebook for practice.
+
 # Names of Contributors
 - Ryan Mburu
 
