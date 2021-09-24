@@ -3,9 +3,7 @@
 # Introduction
 This is a project that uses hypothesis testing to investigate on a claim about bluecars being provided by the company Autolib.
 
-The claim in question is whether blue cars are picked more in area X over area Y, and necessary procedures to be followed to try to reject the hypothesis.
-
-Other claims will be added on the notebook for practice.
+The claim in question is whether blue cars are more popular in Postal code 75017 over postal code 75020. A null and alternate hypothesis was derived from the claim and a t-test hypothesis test performed.
 
 # Names of Contributors
 - Ryan Mburu
